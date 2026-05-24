@@ -2,9 +2,7 @@
 
 A clean, responsive, frontend-only web application dedicated to exploring interface usability principles.
 
-## 🔗 Live Demo
 
-- **Live Link:** [View the Live Site Here](YOUR_LIVE_URL_HERE)
 
 ---
 
@@ -23,29 +21,6 @@ A clean, responsive, frontend-only web application dedicated to exploring interf
 - **JavaScript (ES6):** Client-side interactivity.
 
 ---
-
-## 🚀 How to Run Locally
-
-1. Clone this repository:
-
-```bash
-   git clone [https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git)
-
-## Project structure
-
-```
-
-Usability/
-├── assets/ # Images and SVG assets
-├── index.html # Main landing page
-├── style.css # Main stylesheet
-├── media.css # Responsive styles
-├── new.html # Additional page
-├── style2.css # Alternate stylesheet
-└── README.md # Project documentation
-
-```
-
 
 
 
